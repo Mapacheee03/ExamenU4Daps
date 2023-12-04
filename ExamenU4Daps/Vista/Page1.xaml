@@ -50,7 +50,7 @@
                     HorizontalOptions="Center"
                     TextColor="Black"
                     BackgroundColor="LightGreen"
-                    Command="{Binding btnCalcular}"/>
+                    Command="{Binding CalcularCommand}"/>
         </StackLayout>
     </Grid>
 </ContentPage>
